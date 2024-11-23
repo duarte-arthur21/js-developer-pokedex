@@ -2,9 +2,7 @@
 
 <h1 aling= "center">🎮 POKEDEX </h1>
 
-<p>Um jogo da memória é uma atividade divertida e educativa que consiste em encontrar pares de cartas iguais.</p>
-<p>As cartas são dispostas com a face para baixo, e o jogador vira duas por vez, tentando memorizar suas posições para formar os pares corretos. </p>
-<p>Esse jogo é ótimo para estimular a concentração, a memória e o raciocínio lógico de todas as idades!</p>
+<p>O projeto é uma aplicação simples que trás um conjunto de cards com informações sobre os mais variados tipos de pokémons!.</p>
 
 <h1 aling= "center">🛠️ Tecnologias utilizadas</h1>
 
@@ -23,7 +21,7 @@
 </ul>
 
 <h1> Site do jogo </h1>
-    <img src="./src/img/screen.png" alt="">
+    <img src="./imgs/diplay.png" alt="">
 
-<p> Para quem deseja jogar o jogo Detona Halph está disponivel neste site.</p>
+<p> Para quem deseja visitar o site ele está disponivél no link:</p>
 https://duarte-arthur21.github.io/Jogo-da-memoria/
